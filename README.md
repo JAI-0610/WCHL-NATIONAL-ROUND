@@ -14,7 +14,7 @@ Decentralized applications face multiple security challenges: Lack of real-time 
 
 Solution Description
 
-ChainGuard Sentinel introduces a revolutionary approach to Web3 security by combining: Decentralized agent-based architecture for distributed decision-making. AI/ML models for predictive analysis of vulnerabilities and behavioral anomalies. Autonomous mitigation protocols to respond instantly without human input. Native integration with ICP dApps, with modular support for multichain deployments. Real-time dashboards and alerts to provide visibility without requiring intervention. The system not only detects threats but prevents them before they cause harm, ensuring continuous and adaptive protection for next-gen decentralized applications.#WCHL
+ChainGuard Sentinel introduces a revolutionary approach to Web3 security by combining: Decentralized agent-based architecture for distributed decision-making. AI/ML models for predictive analysis of vulnerabilities and behavioral anomalies. Autonomous mitigation protocols to respond instantly without human input. Native integration with ICP dApps, with modular support for multichain deployments. Real-time dashboards and alerts to provide visibility without requiring intervention. The system not only detects threats but prevents them before they cause harm, ensuring continuous and adaptive protection for next-gen decentralized applications. #WCHL
 
 
 Team Members :-                                        Aditya | Jayavardhan | Soham
