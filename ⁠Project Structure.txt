@@ -1,0 +1,34 @@
+chainguard-backend/
+├── config/
+│   ├── db.js
+│   ├── icp.js
+│   └── ai.js
+├── controllers/
+│   ├── authController.js
+│   ├── scanController.js
+│   ├── threatController.js
+│   └── paymentController.js
+├── middleware/
+│   ├── auth.js
+│   └── icp.js
+├── models/
+│   ├── User.js
+│   ├── Scan.js
+│   ├── Threat.js
+│   └── Subscription.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── scanRoutes.js
+│   ├── threatRoutes.js
+│   └── paymentRoutes.js
+├── services/
+│   ├── aiService.js
+│   ├── icpService.js
+│   ├── notificationService.js
+│   └── paymentService.js
+├── utils/
+│   ├── logger.js
+│   └── errorHandler.js
+├── .env
+├── package.json
+└── server.js
